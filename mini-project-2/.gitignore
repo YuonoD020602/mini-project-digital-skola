@@ -1,0 +1,9 @@
+   # Rahasia: jangan pernah di-push
+   .env
+
+   # File otomatis dari Python
+   __pycache__/
+   *.pyc
+
+   # Data CSV mentah (ukurannya besar)
+   *.csv
